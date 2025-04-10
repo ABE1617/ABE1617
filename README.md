@@ -1,7 +1,11 @@
 # 💫 About Me:
 🔭 Currently working on AI/ML, Full-Stack, and AR/VR projects.<br>🌱 Learning advanced AI and machine learning techniques to solve complex challenges.<br>👯 Open to freelancing and job opportunities.<br>💬 Ask me about Unity, Unreal Engine, OpenCV, Python, TensorFlow, Flutter, and Node.js.<br>📫 Reach me at bahaeddine.alili@gmail.com.<br>📄 Check out [my Resume](https://drive.google.com/file/d/1u0rtTGQT5sbHR8Bt6mBTAgZMbOSvdHUt/view?usp=sharing).
 
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
