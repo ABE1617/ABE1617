@@ -109,12 +109,12 @@ Most of my day-to-day work lives in private client repositories. Recent highligh
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ABE1617&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" height="180" alt="GitHub stats" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=ABE1617&theme=transparent&hide_border=true" height="180" alt="GitHub streak" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ABE1617&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" height="180" alt="GitHub stats" />
+  <img src="https://streak-stats.demolab.com?user=ABE1617&theme=transparent&hide_border=true" height="180" alt="GitHub streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ABE1617&layout=compact&theme=transparent&hide_border=true&langs_count=8&hide=jupyter%20notebook,html,css" alt="Top languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ABE1617&layout=compact&theme=transparent&hide_border=true&langs_count=8&hide=jupyter%20notebook,html,css" alt="Top languages" />
 </p>
 
 <picture>
