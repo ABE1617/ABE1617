@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# Hi, I'm Alili Mohamed Baha Eddine 👋
+# Alili Mohamed Baha Eddine
 
 **I build worlds, code systems, and make ideas playable.**
 
@@ -16,16 +16,20 @@
 
 </div>
 
-## 👨‍💻 About Me
+---
 
-- 🎓 Engineering student at **CESI Engineering School** — Blida, Algeria
-- 🥽 I build **AR/VR & XR experiences** and games with **Unity** and **Unreal Engine**
-- 🤖 I train and ship **computer-vision & ML models** (YOLOv8, TensorFlow/Keras, PyTorch) — down to **edge devices**
-- 🌐 Full-stack developer: **Next.js / React** front-ends, **FastAPI / Django / Node.js** back-ends, **Flutter** mobile apps
-- ⚡ **1,100+ contributions in the last year** — most of it in private client work
-- 💼 **Open to freelance projects and full-time roles** → [resume](https://drive.google.com/file/d/1d0pC-99pNjJoOlJpf7D-0bIyR6ys_lgi/view?usp=sharing) · [bahaeddine.alili@gmail.com](mailto:bahaeddine.alili@gmail.com)
+## About Me
 
-## 🚀 Featured Projects
+- Engineering student at **CESI Engineering School** — Blida, Algeria
+- I build **AR/VR & XR experiences** and games with **Unity** and **Unreal Engine**
+- I train and ship **computer-vision & ML models** (YOLOv8, TensorFlow/Keras, PyTorch) — down to **edge devices**
+- Full-stack developer: **Next.js / React** front-ends, **FastAPI / Django / Node.js** back-ends, **Flutter** mobile apps
+- **1,100+ contributions in the last year** — most of it in private client work
+- **Open to freelance projects and full-time roles** — [resume](https://drive.google.com/file/d/1d0pC-99pNjJoOlJpf7D-0bIyR6ys_lgi/view?usp=sharing) · [bahaeddine.alili@gmail.com](mailto:bahaeddine.alili@gmail.com)
+
+---
+
+## Featured Projects
 
 | Project | What it is | Built with |
 |---|---|---|
@@ -37,7 +41,9 @@
 | **[Multi-Truck Route Optimizer](https://github.com/ABE1617/Multi-Truck-Delivery-Route-Optimization-Using-Genetic-Algorithm)** | Genetic algorithm for the multi-vehicle routing problem, written from scratch — custom crossover, mutation and route analytics | Python · NumPy · Seaborn |
 | **[Maritime Weather Station](https://github.com/ABE1617/Smart-Maritime-Weather-Monitoring-Station)** | Arduino weather station for ships — temperature, humidity, light & GPS logged to SD with RTC timestamps, 4 operating modes | C++ · Arduino · Sensors |
 
-## 🔒 Selected Client & Private Work
+---
+
+## Client & Private Work
 
 Most of my day-to-day work lives in private client repositories. Recent highlights:
 
@@ -47,11 +53,13 @@ Most of my day-to-day work lives in private client repositories. Recent highligh
 - **Batch media-processing desktop toolkit for game studios** — images, audio, video, PDF · Next.js, Electron
 - **3D flight radar visualization**, CRMs, e-commerce and landing pages for freelance clients
 
-## 🛠️ Tech Stack
+---
+
+## Tech Stack
 
 <table>
   <tr>
-    <td><b>🎮 Game Dev & XR</b></td>
+    <td><b>Game Dev & XR</b></td>
     <td>
       <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />
       <img src="https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white" alt="Unreal Engine" />
@@ -60,7 +68,7 @@ Most of my day-to-day work lives in private client repositories. Recent highligh
     </td>
   </tr>
   <tr>
-    <td><b>🧠 AI / ML & Vision</b></td>
+    <td><b>AI / ML & Vision</b></td>
     <td>
       <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
       <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow" />
@@ -70,7 +78,7 @@ Most of my day-to-day work lives in private client repositories. Recent highligh
     </td>
   </tr>
   <tr>
-    <td><b>🌐 Web & Mobile</b></td>
+    <td><b>Web & Mobile</b></td>
     <td>
       <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
       <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
@@ -85,7 +93,7 @@ Most of my day-to-day work lives in private client repositories. Recent highligh
     </td>
   </tr>
   <tr>
-    <td><b>🗄️ Databases</b></td>
+    <td><b>Databases</b></td>
     <td>
       <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
       <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
@@ -94,7 +102,7 @@ Most of my day-to-day work lives in private client repositories. Recent highligh
     </td>
   </tr>
   <tr>
-    <td><b>⚙️ DevOps & Embedded</b></td>
+    <td><b>DevOps & Embedded</b></td>
     <td>
       <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
       <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
@@ -106,7 +114,9 @@ Most of my day-to-day work lives in private client repositories. Recent highligh
   </tr>
 </table>
 
-## 📊 GitHub Stats
+---
+
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ABE1617&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" height="180" alt="GitHub stats" />
