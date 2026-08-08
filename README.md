@@ -9,6 +9,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=2F81F7&center=true&vCenter=true&width=600&lines=XR+%26+Game+Development+%7C+Unity+%26+Unreal;AI+%2F+ML+%26+Computer+Vision;Full-Stack+Web+%26+Mobile;IoT%2C+Edge+AI+%26+Embedded+Systems" alt="Typing animation: XR & Game Development, AI/ML & Computer Vision, Full-Stack Web & Mobile, IoT & Edge AI" />
 
 <a href="https://linkedin.com/in/alili-mohamed-baha-eddine-9b2095327/"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://www.upwork.com/freelancers/alilibaha"><img src="https://img.shields.io/badge/Upwork-Top%20Rated-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork — Top Rated" /></a>
 <a href="mailto:bahaeddine.alili@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://drive.google.com/file/d/1d0pC-99pNjJoOlJpf7D-0bIyR6ys_lgi/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume" /></a>
 <a href="https://twitter.com/mrab1647525"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" /></a>
@@ -45,7 +46,7 @@
 
 ## Client & Private Work
 
-Most of my day-to-day work lives in private client repositories. Recent highlights:
+Most of my day-to-day work lives in private client repositories, delivered through [Upwork](https://www.upwork.com/freelancers/alilibaha) (Top Rated) and direct contracts. Recent highlights:
 
 - **Multi-tenant WhatsApp AI platform** — embedded signup, LLM-powered conversations · Django, DRF, Celery, React
 - **AI diagnostic copilot for industrial maintenance** — web + mobile clients · FastAPI, Pydantic AI, Next.js, Flutter
