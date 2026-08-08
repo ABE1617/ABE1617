@@ -118,14 +118,15 @@ Most of my day-to-day work lives in private client repositories. Recent highligh
 
 ## GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ABE1617&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" height="180" alt="GitHub stats" />
-  <img src="https://streak-stats.demolab.com?user=ABE1617&theme=transparent&hide_border=true" height="180" alt="GitHub streak" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ABE1617&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" width="49%" alt="GitHub stats" />
+  <img src="https://streak-stats.demolab.com?user=ABE1617&theme=transparent&hide_border=true" width="49%" alt="GitHub streak" />
+  <br />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ABE1617&layout=compact&theme=transparent&hide_border=true&langs_count=8&hide=jupyter%20notebook,html,css&card_width=445" width="49%" alt="Top languages" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ABE1617&bg_color=transparent&hide_border=true&color=9198a1&line=2f81f7&point=58a6ff&area=true&area_color=2f81f7" width="49%" alt="Contribution activity" />
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ABE1617&layout=compact&theme=transparent&hide_border=true&langs_count=8&hide=jupyter%20notebook,html,css" alt="Top languages" />
-</p>
+<br />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ABE1617/ABE1617/output/github-snake-dark.svg" />
